@@ -8,9 +8,9 @@
 
 ## Resources
 
-[React Native docs](https://reactnative.dev/docs/getting-started)
-[Expo docs](https://docs.expo.io/)
-[TypeScript docs](https://www.typescriptlang.org/docs/)
+- [React Native docs](https://reactnative.dev/docs/getting-started)
+- [Expo docs](https://docs.expo.io/)
+- [TypeScript docs](https://www.typescriptlang.org/docs/)
 
 ## Development
 
